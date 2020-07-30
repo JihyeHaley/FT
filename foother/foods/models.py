@@ -13,7 +13,6 @@ class FoodCategory(models.Model):
                 format='JPEG',
                 options={
                     'quality': 80},
-                default='/img/ctg/chicken.png'
     )
     # selectbox로 설정
     # img = models.ImageField()

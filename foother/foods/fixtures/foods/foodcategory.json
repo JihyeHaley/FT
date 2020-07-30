@@ -4,7 +4,7 @@
     "pk": 1,
     "fields": {
         "food_ctg": "\ubc25",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/rice.jpg"
     }
 },
 {
@@ -12,7 +12,7 @@
     "pk": 2,
     "fields": {
         "food_ctg": "\uba74",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/noodle.jpg"
     }
 },
 {
@@ -20,7 +20,7 @@
     "pk": 3,
     "fields": {
         "food_ctg": "\ud2b9\uc2dd",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/special.jpg"
     }
 },
 {
@@ -28,7 +28,7 @@
     "pk": 4,
     "fields": {
         "food_ctg": "\uad6d\ud0d5",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/soup.jpg"
     }
 },
 {
@@ -36,7 +36,7 @@
     "pk": 5,
     "fields": {
         "food_ctg": "\uac04\ud3b8\uc2dd",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/simple.jpg"
     }
 },
 {
@@ -44,7 +44,7 @@
     "pk": 6,
     "fields": {
         "food_ctg": "\ubd84\uc2dd",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/korean.jpg"
     }
 },
 {
@@ -52,7 +52,7 @@
     "pk": 7,
     "fields": {
         "food_ctg": "\ucc0c\uac1c",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/hotpot.jpg"
     }
 },
 {
@@ -60,7 +60,7 @@
     "pk": 8,
     "fields": {
         "food_ctg": "\uad6c\uc774",
-        "food_ctg_image": "/img/ctg/chicken.png"
+        "food_ctg_image": "/food_ctg_photo/bbq.jpg"
     }
 }
 ]
